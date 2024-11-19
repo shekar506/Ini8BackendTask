@@ -1,11 +1,14 @@
 # Project Instructions
 
+import project in eclipse 
+download JDK 17 and spring boot-related properties
+
 ## Backend
 1. Navigate to the main/java/com.backend.Ini8BackendTask
-2. run the ini8backendtaskapllication as springboot application
+2. run the ini8backendtaskapllication as spring boot application
 3. after the project started running
-4. use postman to see all crud operations on backend
-5. " http://localhost:8080/api/regist " ( base url )
+4. Use Postman to see all crud operations on the backend
+5. " http://localhost:8080/api/regist " ( base URL )
 
 
 ## Frontend
