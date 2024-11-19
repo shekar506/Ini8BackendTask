@@ -1,0 +1,15 @@
+# Project Instructions
+
+## Backend
+1. Navigate to the main/java/com.backend.Ini8BackendTask
+2. run the ini8backendtaskapllication as springboot application
+3. after the project started running
+4. use postman to see all crud operations on backend
+5. " http://localhost:8080/api/regist " ( base url )
+
+
+## Frontend
+1. navigate resources/static file
+2. frontend will run at `http://localhost:8080`.
+
+
