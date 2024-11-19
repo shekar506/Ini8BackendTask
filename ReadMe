@@ -1,3 +1,12 @@
+INI8BACKENDTASK
+
+" This project contains a Spring Boot backend and a static frontend (HTML, CSS, JS) "
+The front end is served through the Spring Boot application.
+
+Project Structure
+/backend: Contains Spring Boot backend code and configurations.
+/frontend: Contains static frontend files (HTML, CSS, JS).
+
 # Project Instructions
 
 import project in eclipse 
